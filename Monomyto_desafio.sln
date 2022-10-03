@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monomyto_desafio", "Monomyto_desafio.csproj", "{CEF69A99-DCB3-47CF-8DE0-7140306110A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEF69A99-DCB3-47CF-8DE0-7140306110A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF69A99-DCB3-47CF-8DE0-7140306110A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF69A99-DCB3-47CF-8DE0-7140306110A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF69A99-DCB3-47CF-8DE0-7140306110A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A088FD9-98E6-4C9E-8FE2-3F36CDBD47C5}
+	EndGlobalSection
+EndGlobal
